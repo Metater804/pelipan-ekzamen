@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #81E3A8;
+    padding: 180px;
+}
+
+h1 {
+    text-align: left;
+    color: #81E3A8;
+    font-size: 64px; 
+}
+
+main {
+    padding: 20px;
+}
+
+.cactus {
+    text-align: left;
+}
+
+.contact {
+    margin-top: 40px;
+}
+
+footer {
+    background-color: #C4C4C4;
+    padding: 78px;
+    text-align: center;
+}
+
+.contact-info {
+    color: #2C6161; 
+    font-size: 36px;
+}
